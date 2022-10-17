@@ -2,7 +2,7 @@
 
 ## 4.1.- Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
 
-![alt text](Selecció_001.png)
+![image](https://user-images.githubusercontent.com/114423315/196237155-fad52497-e172-4557-9e93-779ce5b1a751.png)
 
 ## 4.2.- Inicia sessió com a l'usuari adminXYZ.
 
