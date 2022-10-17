@@ -10,3 +10,7 @@
 
 ## 4.3.- Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
+![image](https://user-images.githubusercontent.com/114423315/196238972-113de88b-f933-4215-a25c-2d5431d40d67.png)
+
+## 4.4.- Podem crear fitxers d'una mida determinada a Linux amb la comanda:
+
