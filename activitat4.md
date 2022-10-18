@@ -64,5 +64,13 @@ Quan ho tinguessem hem de anar al quadrat de dalt hon diu marquet i alli estara 
 
 ![image](https://user-images.githubusercontent.com/114423315/196415621-10e0e801-743e-433d-bf37-35e2810ccacc.png)
 
+### Collabora Online
 
+Ja despres he fet els mateixos pasos per innstalar la seguent extencio.
+
+![image](https://user-images.githubusercontent.com/114423315/196416288-4b8d7657-82c8-40df-bef4-a5a40a26addc.png)
+
+## 4.14.- Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
+
+## Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
