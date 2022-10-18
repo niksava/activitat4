@@ -58,7 +58,7 @@
 
 Per instalar el canlendari hem de fer clic damunt del link (Calendar) que ens portara a la seguent pagina, hon baix de tot aurem de fer click INSTALL i ja ho tindriem installa.
 
-![Selecció_016](https://user-images.githubusercontent.com/114423315/196415323-351363db-231f-4249-98ea-b2c733d390da.png)
+![image](https://user-images.githubusercontent.com/114423315/196415924-2adef991-8ea1-452f-a6b7-215ffa083e9f.png)
 
 Quan ho tinguessem hem de anar al quadrat de dalt hon diu marquet i alli estara el nostre calendari ho podriem entrar i escriure coses per a depent quins dies.
 
