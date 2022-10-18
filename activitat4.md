@@ -52,4 +52,17 @@
 
 ## 4.13.- Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
+### Calendar
+
+![image](https://user-images.githubusercontent.com/114423315/196414427-07a64079-9e00-4164-9e71-90bef98b4db5.png)
+
+Per instalar el canlendari hem de fer clic damunt del link (Calendar) que ens portara a la seguent pagina, hon baix de tot aurem de fer click INSTALL i ja ho tindriem installa.
+
+![Selecció_016](https://user-images.githubusercontent.com/114423315/196415323-351363db-231f-4249-98ea-b2c733d390da.png)
+
+Quan ho tinguessem hem de anar al quadrat de dalt hon diu marquet i alli estara el nostre calendari ho podriem entrar i escriure coses per a depent quins dies.
+
+![image](https://user-images.githubusercontent.com/114423315/196415621-10e0e801-743e-433d-bf37-35e2810ccacc.png)
+
+
 
