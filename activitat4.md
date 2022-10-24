@@ -78,3 +78,14 @@ Ja despres he fet els mateixos pasos per innstalar la seguent extencio.
  
 ## 4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
 
+![image](https://user-images.githubusercontent.com/114423315/197581868-6314b5b0-6508-46c4-8c73-43897400e70b.png)
+
+## 4.16.- Un usuari normal pujarà un fitxer a la carpeta public.
+
+Aqui tenim alguns usuaris que poden veure i crear arxius a la carpeta PublicNS.
+
+![Selecció_019](https://user-images.githubusercontent.com/114423315/197588593-2db117a5-901e-42e8-af1d-d40fbba31c55.png)
+
+![Selecció_020](https://user-images.githubusercontent.com/114423315/197588705-f38dc496-5d3e-4665-b047-5a6a146fe233.png)
+
+
