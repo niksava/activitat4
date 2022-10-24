@@ -74,3 +74,7 @@ Ja despres he fet els mateixos pasos per innstalar la seguent extencio.
 
 ## Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
+![image](https://user-images.githubusercontent.com/114423315/197568860-793f411d-111e-4c97-ac99-2daf11248c43.png)
+ 
+## 4.15.- Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica aquí. Tots els usuaris tindran accés a la carpeta.
+
